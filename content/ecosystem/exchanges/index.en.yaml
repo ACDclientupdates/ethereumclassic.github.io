@@ -28,6 +28,10 @@ content:
       link: https://www.altilly.com/market/ETC_USDT
       name: Altilly
     -
+      key: Anycoin Direct
+      link: https://anycoindirect.eu/en/buy-ethereum-classic
+      name: Anycoin Direct
+    -
       key: BaseFEX
       link: https://www.basefex.com/trade/ETCUSDT
       name: BaseFEX
